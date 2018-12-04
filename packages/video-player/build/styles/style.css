@@ -1,0 +1,57 @@
+/*
+*   General
+*/
+.container {
+    font-size: 15px;
+}
+
+/*
+*    Search bar 
+*/
+#search-container{
+    margin:2vw; /* Don't copy this */
+}
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+/*
+*    Videos list 
+*/
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color: #eee;
+}
+
+.list-group-item img {
+    max-width: 65px;
+}
+
+
+/*
+*    Video player
+*/
+.video-details {
+    padding: 1vw 10px;
+}
+
+.video-details-heading {
+    font-size: 1.3em;
+    font-weight: 600;
+}
+
+.video-details-body {
+    
+}

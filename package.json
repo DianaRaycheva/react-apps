@@ -1,0 +1,23 @@
+{
+  "name": "react-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^3.5.1",
+    "lodash.debounce": "^4.0.8",
+    "modern-scripts": "2.2.0",
+    "path": "^0.12.7",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-redux": "^5.1.1",
+    "react-scripts": "^2.1.1",
+    "redux": "^4.0.1",
+    "youtube-api-search": "0.0.5"
+  }
+}
